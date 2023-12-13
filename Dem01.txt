@@ -1,0 +1,54 @@
+
+QUALIFICATIONS SUMMARY
+Business	Requirement, Business Analysis, Vendor Management, Root Cause Analysis
+Software	Jira, Tableau, MS Suite 
+Design	Design Thinking, Continuous Improvement(CI)
+Technology	(Basics) Git, Jenkins, Docker, Kubernetes, Ansible
+Strategy	Cross-functional domain,  3RD party engagement, DevOps
+Other	Analysis, Visualization, Critical thinking
+Linguistics	English, Tamil
+
+PROFESSIONAL EXPERIENCE & ACCOMPLISHMENTS
+
+NETWORK OPERATION ASSOCIATE
+•	By delivering operation services to onshore clients, achieved 15% reduction in technical issues by forecasting, alongside successful planning, engagement, review, and resolution for the incidents within the defined service level agreement (SLA). 
+•	Collaborating with cross-functional teams to promptly address customer's real-time issues and ensure efficient resolution. Reach out to the customer whenever required to get to know more details about the issue. 
+•	Analysed and monitored the KPI; Ensured the continuous improvement in providing service to the clients that led to a further two-year extension of service.
+•	Manage and define detailed user stories, ensuring that the stories meet customer needs, project goals, and adoption targets.
+•	Owned the ownership of technical bridge calls and completed restoration of critical incidents and major incident.  Managed the end-to-end operations in IT service management.
+•	Responsible for notification to client and the communication groups within specified agreed timeframes.
+•	Solely responsible for PIR review and the generation of daily, weekly, and monthly reports to clients.
+•	Analysed and categorized the restored incidents; initiated the problem and change ticket alongside.
+•	Demonstrated exceptional performance and skills, received a promotion from the organization, and successful transition to the prestigious Optus project.
+
+ENGINEER
+•	Gathering the Product/Service requirements from the customer which contains the functionality, performance, usability, supportability, and reliability of the product. All details are documented for future reference.
+•	Plan and developed the minimum viable product (MVP), gave a valuable proportion to the clients, ensured that would fulfill the customer need, and took additional feedback from the customer's point of view.
+•	Managed multiple projects, tested the quality of products and services, and maintained comprehensive documentation. 
+•	Collaboration with cross-functional team and optimized resource allocation, resulted in a cost savings of 10% through efficient use of third parties, time, and materials.
+•	Played a key role in designing and reviewing product structures, improving product output by 15% and minimizing potential errors.
+•	Achieved a remarkable track record of completing more than 25 projects within a two-year tenure, showcasing strong project management skills, and delivering exceptional results for clients.
+PERSONAL EXPERIENCE	
+RELIANCE INDUSTRIES (RETAIL)	
+•	Conduct voice-of-customer interviews and take surveys from 250+ customers in Reliance retail industries. Secondary data were collected and validated in Reliance along with their peers.
+•	Identified the gaps observed in operations that inconvenience the customers and the insights of customer delights.
+•	Conducted a comprehensive, comparative analysis utilizing SWOT analysis, 7P's, Porter Model, and Pestle Model, to assess performance to competitors. 
+•	Quantified and precisely measured the outcomes and insights derived from the analysis, providing actionable recommendations for strategic decision-making.
+TIKTAULI DE CORPS (TDC)                                                                                                                                                                       
+•	Analysed the brand portfolio and branding strategy of Tiktauli de Corps (TDC), and decided the future branding strategy to be followed by TDC between House of Brands strategy or a Branded House strategy. 
+•	Elaborated the current Segmentation Targeting Positioning (STP) strategy and Marketing Mix strategy followed by (TDC) and analyzed how customer value was created by TDC using differentiation. Provided suggestions for enhancing the success of TDC.
+•	Conducted SWOT analysis to identify strengths, weaknesses, opportunities, and threats, informing strategic decision-making.
+•	Assessed the value created by differentiating products within the market, ensuring a competitive advantage. 
+EDUCATION
+
+Post Graduate Program in Management(Exe) (Specialization: Operations)	   
+                                      
+Master of Engineering (Specialization: Engineering Design)                                                                                
+                                                                                                            
+Bachelor of Engineering (Specialization: Mechanical Engineering)                                                           
+COURSE COMPLETION & CERTIFICATIONS
+•	Certified in SAFe®6.0 Product Owner/Product Management (POPM) 
+•	Fundamentals of Business Analysis
+•	Business Fundamentals – Marketing strategy, corporate strategy
+•	Critical thinking, Product Management.
+
