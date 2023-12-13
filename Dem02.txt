@@ -1,0 +1,130 @@
+
+Design and Reviewing the construction drawings.	
+Responsible for the project management, quality control and its paperwork. 
+Work with client team to evaluate and handle feedback and work with the different team during Performance management decisions.
+Maintaining a high level of customer satisfaction by delivering exceptional service and support.
+Responsible for ensuring that the Field Supervisors and technicians complete and submit required documentation 
+Responsible for monitoring project activities (scheduling, scope, etc), and ensuring that the complete and submit required documentation 
+Handling multiple projects at a time and track the projects daily.
+Weekly review meeting organised and discussion made for the continuous improvement in operations and delivering the projects.
+
+Efficient Planning, scheduling, and monitoring of projects for timely completion. 
+Effective use of labours, time and material.	
+Ensure quality of work and safety at sites for man and material. 
+Supervising fit up and welding of spool to spool or spool to field run pipe together and welding 
+supports also (as much as possible according to accessibility) to lift and place one time (saving time and effort). 
+Implemented safety processes and procedures, ensuring contractors have necessary safety equipment while monitoring working conditions to provide a safe environment for workers.	
+Entrusted the responsibility in increasing sales.	
+Fore fronting operations pertaining to revenue generation, reducing cost of operations and increasing efficiency as well as alleviating attrition rate. 
+Statutory compliance at site, maintenance of records at sites etc.
+----------------------------------
+
+. Work closely with the Infosys managers to handle day to day PMO activities.
+2. Interact with Client managers and operations managers
+3. Reporting: preparing all relevant daily/weekly/monthly reports as required by the
+management/Client. Should be well versed with excel usage (like pivots etc) and also MS
+Powerpoint. Should have the knack to capture meeting minutes highlighting important points.
+4. Handle the billing of the project by coordinating with Infosys and client finance teams
+5. Should be able to handle the internal tools and processes of Infosys including but not limited
+project allocations, de allocations, travel arrangements, client visit arrangements.
+6. Should have knowledge of Change request procedure and should understand SOW/PO
+7. Should be able to handle project procurement activities as needed
+8. Should be quick to understand the workings in a large organization and develop contacts and
+methods to handle project needs
+9. Should be comfortable working with multiple stakeholders.
+10. Quality Assurance: Work with client team to evaluate and handle feedback and work with the HR
+team during Performance management decisions.
+11. Have excellent oral and written communication skills and should be hard working.
+----------
+
+Communicate with the Field Supervisors and technicians to obtain progress updates and ensure
+project issue resolution (at least twice per day).
+Responsible for ensuring that the Field Supervisors and technicians complete and submit required
+documentation (ie Daily Reports, Time-Cards, As-Built Redlines, Quality Control Reports, Change
+Order Requests, Request for Information, Incident/Accident Report).
+Responsible for monitoring project activities (scheduling, scope, etc), and ensuring that the
+complete and submit required documentation (ie Daily Reports, As-Built Redlines, Quality Control
+Reports, Change Order Requests, Request for Information, Incident/Accident Report, and Closeout
+Packages).
+Responsible for ensuring all company and safety policies/regulations are enforced at the work site,
+to include OSHA regulations.
+Responsible for training of the project crew for field work, eg, loading and off loading, correct tool
+and machinery use, etc Work with Operations Director to keep informed of changes/updates and schedule of customer
+job.
+Meet with Customer Representative(s) and provide project updates and closeout packages.
+Coordinate with Accounting to provide weekly Invoicing, including quantity tracking.
+-------------
+
+ Proven experience in application support or a related technical role.
+- Strong knowledge of troubleshooting methodologies and ticketing systems.
+- Familiarity with various operating systems and databases.
+- Excellent communication and interpersonal skills.
+- Ability to work well under pressure and handle multiple priorities.
+- Analytical mindset and problem-solving capabilities.
+- Flexibility to work occasional off-hours and weekends for support coverage.
+--ke---
+- Provide technical support to end-users and clients for various software applications.
+- Troubleshoot and resolve application-related issues promptly and efficiently.
+- Log, track, and prioritise support tickets using a ticketing system.
+- Collaborate with cross-functional teams to identify and implement solutions.
+- Perform system monitoring and maintenance tasks to ensure optimal application performance.
+- Document support processes, solutions, and frequently asked questions for knowledge sharing.
+- Conduct training sessions for end-users to enhance their understanding and usage of applications.
+- Work closely with developers and analysts to escalate complex issues when necessary.
+- Maintain a high level of customer satisfaction by delivering exceptional service and support.
+
+--------------------------
+Working in Optus Australia Project at Nokia (GDC) Office. 
+Handling customer facing real time issue. 
+Predominantly, monitoring the network performances and resolving the issue within SLA.  
+Managing the end-to-end process in the service management
+Collection of data, generating, analysed, and documented daily report to track the performances
+Practicing ITIL process throughout the operations.
+Preparation of all relevant daily/weekly/monthly reports as required by the management/Client. 
+Organising Weekly review meeting and discussion made for the continuous improvement in operations and delivering the project.
+
+
+
+
+Sound knowledge in Network troubleshooting tools and network terminologies.
+----
+Working in Vodafone Hudston Australia Project at Nokia (GDC) Office. 
+Troubleshooting network outages and supporting onshore technician for restoring network faults in onshore. 
+Provide technical support to end-users and clients for various real time issues.
+Responsible for monitoring Major activities, and ensuring that the complete and submit required documentation 
+Virtual Meet with Client Representative(s) and provide critical updates.
+Accountable for Reports, Change Order Requests, Request for Information, Incident Report, and Closure.
+Managing team of ten people and to organize 24/7 support and services to the client.
+Work closely with multiple stakeholder for the recovery and resolutions. 
+
+
+Generation of daily reports and installation of RAN network hardware's. 
+Live Monitoring and conducting triage to resolve the network issues. 
+Arranging respective spares and organizing field ops to attend the sites. 
+Handling multiple tasks and prioritise the issues to attained predominant results. 
+Adequate knowledge in network analysing tools. 
+
+----
+Working in Vodafone Hudston Australia Project at Nokia (GDC) Office. 
+Monitoring day to day activities in network operations. 
+Handling all the issues based on priority (P1,P2,P3,P4) and providing exceptional services to the customer along with the team. All the time achieved RNA about 99.98% in every quarter along with the team. 
+Log, track, and prioritise support tickets using a ticketing system.
+Work closely with LM and PM to escalate complex issues when it's necessary
+Consistently achieved SLA work along with the team. 
+Maintain a high level of customer satisfaction by delivering exceptional service and support.
+Responsible for Network incident creation and escalate to respective domain. 
+Supporting field technician and upon aided support for the event.
+----
+Key skills
+
+ Service Now Ticketing  Application Support  Service Management
+Change Management ITIL Certified ITSM Service Delivery Management
+Incident Management
+
+Telecom Health insurance Project management Scheduling Spanish
+Manager Quality Control microsoft Construction management Monitoring
+
+ls
+ PMO Management  SOW  Reporting And Analytics  Powerpoint
+ Excel Reporting
+Accounting Contract Management Billing
